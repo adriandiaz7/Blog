@@ -3,3 +3,5 @@ Ejemplo de git con commit
 Otro ejemplo mas
 
 Hablaremos de la vida
+
+La vida es dolor, del dolor se suman las experiencias, de las experiencias mas probabilidades de vivir a largo plazo, ¿A que costo?
