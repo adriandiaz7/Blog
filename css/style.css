@@ -1,5 +1,13 @@
 body{
-    color: blue;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: left;
+    font-family: 'Arial';
+}
+
+.containar{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
 }
