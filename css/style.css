@@ -4,10 +4,31 @@ body{
     font-family: 'Arial';
 }
 
+.cabecera{
+    background: #33a;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm; 
+ }
+
+ .cabecera .tagible{
+     padding: 0 0 0 0.3cm;
+     font-weight: normal;
+     font-size: 0.3cm;
+ }
+
 .containar{
     width: 70%;
     padding: 1cm;
     text-align: left;
     border: 1px solid black;
     margin: 0 auto;
+}
+
+
+
+.containar h1{
+    font-size: 20px;
 }
