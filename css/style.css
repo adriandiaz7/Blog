@@ -1,12 +1,13 @@
 body{
-    color: black;
+    background: black;
+    color:black;
     text-align: left;
     font-family: Arial;
 }
 
 .cabe{
-    background:black;
-    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
+    background:blue;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -17,6 +18,10 @@ body{
      padding: 0 0 0 0.3cm;
      font-weight: normal;
      font-size: 0.3cm;
+ }
+ .cabe .logo{
+     width: 50px;
+     vertical-align: middle;
  }
 
 .containar{
@@ -31,4 +36,9 @@ body{
 
 .containar h1{
     font-size: 20px;
+}
+
+.cuerpo{
+    background: white;
+    padding: 1cm;
 }
